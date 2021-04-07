@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828236888722",
+    "project_id": "weekplanner-d88cb",
+    "storage_bucket": "weekplanner-d88cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828236888722:android:9ccaa0d6761aa2ebbc044b",
+        "android_client_info": {
+          "package_name": "kristenking.week_planner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828236888722-m6odh8nq0utorldc0sja23t734p2chaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4bhX73JbRkwEL395DUpwSNMsxt1eLV_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828236888722-m6odh8nq0utorldc0sja23t734p2chaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
