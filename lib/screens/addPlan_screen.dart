@@ -26,7 +26,7 @@ class _AddPlanScreenState extends State<AddPlanScreen> {
                 name = text;
               },
               decoration: InputDecoration(
-                hintText: "What do you want to note.?",
+                hintText: "What do you want to note?",
                 contentPadding: const EdgeInsets.all(30),
                 border: InputBorder.none
               ),
